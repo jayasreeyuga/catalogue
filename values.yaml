@@ -28,6 +28,7 @@ podAnnotations: {}
 
 podSecurityContext: {}
   # fsGroup: 2000
+  # yugandhar jayasree
 
 securityContext: {}
   # capabilities:
